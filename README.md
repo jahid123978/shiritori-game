@@ -3,3 +3,6 @@
 3. First checks word structure (length, starting letter, duplicates), then verifies via API. Invalid words deduct points and trigger player switch.
 4. Uses React hooks (useState, useEffect) for state/timer management. Async API calls for validation, cleanup for memory optimization.
 5. Integrate component into React apps, customize styling/rules. Requires internet for API validation; handles errors gracefully.
+
+Live link: https://shiritori-game-two.vercel.app/
+
